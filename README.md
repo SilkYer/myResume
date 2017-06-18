@@ -1,6 +1,6 @@
 # My Resume
 
-[remozhang.github.io/myresume](https://remozhang.github.io/myresume)
+[silkyer.github.io/myresume](https://silkyer.github.io/myresume)
 
 ## Introduction
 
